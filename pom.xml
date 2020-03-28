@@ -11,6 +11,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<runSuite>**/AppSuiteTests.class</runSuite>
 	</properties>
 
 	<dependencies>
